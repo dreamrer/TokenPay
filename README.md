@@ -65,7 +65,11 @@ TokenPay
 - 宝塔运行`TokenPay`教程👉🏻[宝塔运行TokenPay](Wiki/BT_RUN.md)
 - 手动运行`TokenPay`教程👉🏻[手动运行TokenPay](Wiki/manual_RUN.md)
 - 小白也可查看用户贡献的搭建视频：[TokenPay详细搭建教程 对接易支付和独角数卡](https://www.youtube.com/watch?v=w75mTOAnLDw)
+### URL 基本格式：
 
+https://域名/CreateOrder?currency=USDT_TRC20
+
+currency 可取值： https://github.com/LightCountry/TokenPay/blob/master/Wiki/Currency.md
 
 ## 加入交流/意见反馈
 - `TokenPay`频道[https://t.me/TokenPayChannel](https://t.me/TokenPayChannel)
